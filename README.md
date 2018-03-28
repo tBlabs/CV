@@ -40,8 +40,7 @@ Full-stack & embeedded engineer with 12 years of experience (8 years commercial)
 
 ### Tools I can't live without :)
 - TypeScript
-- inversify (for IoC in JS)
-- jest
+- inversify (for IoC in JS), Rx, Material-UI, parcel, webpack, jest
 - Visual Studio Code with many plugins..
 
 ### Programs knowleage
