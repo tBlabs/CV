@@ -1,5 +1,5 @@
-# Tomasz Budrewicz
-Full-stack & embeedded engineer with 12 years of experience (8 years commercial)
+# Tomasz Budrewicz '86
+Full-stack & embeedded engineer with 12 years of experience (over 8 years commercial)
 
 - Warsaw, PL
 - wendro@wp.pl
@@ -7,7 +7,7 @@ Full-stack & embeedded engineer with 12 years of experience (8 years commercial)
 
 ### Core skills
 - **Typescript, C#, C**
-- Node.js with Typescript
+- Node.js with Typescript (my favourite)
 - React.js with Typescript
 - Angular 4
 
@@ -45,14 +45,18 @@ Full-stack & embeedded engineer with 12 years of experience (8 years commercial)
 
 ### Programs knowleage
 
-Visual Studio Code, GIT, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator.
+Visual Studio Code, GIT, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator; + many embedded stuff
 
 ### About me
 
-Design patterns lover (Especially CQRS and IoC). Can't live without Typescript, tests and OOP.
+Design patterns lover (especially CQRS and IoC). Can't live without Typescript, tests and OOP.
+
 Like to work alone and in small teams.
+
 Drive-license A & B.
 
+Hobbies: programming & electronic design; swimming and [motor]bike riding
+
 ### More at
-- github.com/tBlabs
+- www.github.com/tBlabs
 - www.projekty.specteam.pl/tBlabs
