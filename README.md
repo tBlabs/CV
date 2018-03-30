@@ -10,14 +10,20 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - Node.js with Typescript (my favourite)
 - React.js with Typescript
 - Angular 4
-
-### Additional
 - .NET [Core]
 - PHP (non-OO)
 - A little Bash and Python 
 - PCB and 3D print design
 - C/C++ for STM, AVR and PIC
 - Linux; Rasperry Pi
+
+### Known technologies and other important things
+- MongoDB, MySQL, Firebase
+- Socket.io
+- NPM, webpack, parcel
+- jest, enzyme
+- SASS, bootstrap
+- KISS, DRY, SOLID, TDD, DDD
 
 ### Work history
 - 10.2017 - till now - **GogoApps** 
@@ -38,7 +44,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - English (B2/C1)
 - Polish (native)
 
-### Tools I can't live without :)
+### Things I can't live without :)
 - TypeScript
 - inversify (for IoC in JS), Rx, Material-UI, parcel, webpack, jest
 - Visual Studio Code with many plugins..
@@ -60,3 +66,4 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding
 ### More at
 - www.github.com/tBlabs
 - www.projekty.specteam.pl/tBlabs
+- www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
