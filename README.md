@@ -15,7 +15,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - A little Bash and Python 
 - PCB and 3D print design
 - C/C++ for STM, AVR and PIC
-- Linux; Rasperry Pi
+- Linux; Rasperry Pi; IoT
 
 ### Known technologies and other important things
 - MongoDB, MySQL, Firebase
@@ -60,7 +60,7 @@ Design patterns lover (especially CQRS and IoC). Can't live without Typescript, 
 
 Like to work alone and in small teams.
 
-I often attend at programmers meetups. I'm was a speaker few times.
+I often attend at programmers meetups (JS, .NET, Java, IoT). I was a speaker few times.
 
 Drive-license A & B.
 
