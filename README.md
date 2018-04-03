@@ -19,11 +19,13 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Known technologies and other important things
 - MongoDB, MySQL, Firebase
-- Socket.io
+- REST, CQRS Bus, Socket.io
+- Redux, MobX, RxJS
+- IoC (DI)
 - NPM, webpack, parcel
 - jest, enzyme
-- SASS, bootstrap
-- KISS, DRY, SOLID, TDD, DDD
+- SASS, bootstrap, Material-UI
+- SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
 - 10.2017 - till now - **GogoApps** 
@@ -34,6 +36,10 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   *Designer-programmer | Security devices*
 - 03.2008 – 09.2012 - **SpecTeam** 
   *C and PHP Developer | Spying equipment*
+  
+### Best projects
+- web: www.github.com/tBlabs
+- embedded: www.projekty.specteam.pl/tBlabs
 
 ### Education
 
@@ -43,11 +49,6 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 - English (B2/C1)
 - Polish (native)
-
-### Things I can't live without :)
-- TypeScript
-- inversify (for IoC in JS), Rx, Material-UI, parcel, webpack, jest
-- Visual Studio Code with many plugins..
 
 ### Programs knowleage
 
@@ -66,6 +67,4 @@ Drive-license A & B.
 Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
-- www.github.com/tBlabs
-- www.projekty.specteam.pl/tBlabs
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
