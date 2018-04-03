@@ -51,13 +51,15 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Programs knowleage
 
-Visual Studio Code, GIT, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator; + many embedded stuff
+Visual Studio Code (+Vim extension), GIT, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator; + many embedded stuff
 
 ### About me
 
 Design patterns lover (especially CQRS and IoC). Can't live without Typescript, tests and OOP.
 
 Like to work alone and in small teams.
+
+I often attend at programmers meetups. I'm was a speaker few times.
 
 Drive-license A & B.
 
