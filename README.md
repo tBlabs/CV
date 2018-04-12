@@ -12,7 +12,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - Angular 4
 - .NET [Core]
 - PHP (non-OO)
-- A little Bash and Python 
+- Bash and Python basics
 - PCB and 3D print design
 - C/C++ for STM, AVR and PIC
 - Linux; Rasperry Pi; IoT
@@ -29,13 +29,13 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Work history
 - 10.2017 - till now - **GogoApps** 
-  *Full-stack developer | Various apps*
+  *Full-stack Developer | Various web apps*
 - 09.2015 – 09.2016 - **Medmia** 
   *C/C++ Developer | Medical equipment*
 - 03.2013 – 06.2015 - **Omtech** 
   *Designer-programmer | Security devices*
 - 03.2008 – 09.2012 - **SpecTeam** 
-  *C and PHP Developer | Spying equipment*
+  *Embedded and Web Developer | Spying gadgets*
   
 ### Best projects
 - web: www.github.com/tBlabs
@@ -44,6 +44,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 ### Education
 
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
+- 02.2017 - till now - participant in many workshops :)
 
 ### Languages
 
@@ -68,3 +69,5 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
+- www.github.com/tBlabs
+- www.projekty.specteam.pl/tBlabs
