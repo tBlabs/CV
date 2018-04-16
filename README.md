@@ -11,10 +11,11 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - React.js with Typescript
 - Angular 4
 - .NET [Core]
+- jQuery
 - PHP (non-OO)
 - Bash and Python basics
 - PCB and 3D print design
-- C/C++ for STM, AVR and PIC
+- C/C++ for STM32, AVR and PIC
 - Linux; Rasperry Pi; IoT
 
 ### Known technologies and other important things
