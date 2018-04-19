@@ -1,9 +1,10 @@
-# Tomasz Budrewicz '86
+# Tomasz Budrewicz
 Full-stack & embeedded engineer with 12 years of experience (over 8 years commercial)
 
-- Warsaw, PL
-- wendro@wp.pl
 - 507-293-714
+- wendro@wp.pl
+- born in '86
+- lives in Warsaw
 
 ### Core skills
 - **Typescript, C#, C**
@@ -54,7 +55,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Programs knowleage
 
-Visual Studio Code (+Vim extension), GIT, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator; + many embedded stuff
+Visual Studio [Code] (+Vim extension), GIT, Notepad++, Eclipse, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator; + many embedded stuff
 
 ### About me
 
