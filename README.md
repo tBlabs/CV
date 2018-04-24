@@ -23,7 +23,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - MongoDB, MySQL, Firebase
 - REST, CQRS Bus, Socket.io
 - Redux, MobX, RxJS
-- IoC (DI)
+- IoC (DI), JWT
 - NPM, webpack, parcel
 - jest, enzyme
 - SASS, bootstrap, Material-UI
@@ -71,6 +71,6 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
-- https://www.youtube.com/watch?v=b54ivdZ4zfc
+- www.youtube.com/watch?v=b54ivdZ4zfc
 - www.projekty.specteam.pl/tBlabs
 - www.github.com/tBlabs
