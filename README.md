@@ -30,7 +30,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
-- 10.2017 - till now - **GogoApps** 
+- 10.2017 - 04.2018 - **GogoApps** 
   *Full-stack Developer | Various web apps*
 - 09.2015 – 09.2016 - **Medmia** 
   *C/C++ Developer | Medical equipment*
@@ -71,5 +71,6 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
-- www.github.com/tBlabs
+- https://www.youtube.com/watch?v=b54ivdZ4zfc
 - www.projekty.specteam.pl/tBlabs
+- www.github.com/tBlabs
