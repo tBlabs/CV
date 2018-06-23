@@ -7,17 +7,22 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - lives in Warsaw
 
 ### Core skills
-- **Typescript, C#, C**
-- Node.js with Typescript (my favourite)
+
+#### Front-end
 - React.js with Typescript
-- Angular 4
-- .NET [Core]
+- Angular 4+
 - jQuery
-- PHP (non-OO)
-- Bash and Python basics
+
+#### Back-end
+- C# .NET Core
+- Node.js with Typescript
+- PHP
+
+#### Embedded
 - PCB and 3D print design
 - C/C++ for STM32, AVR and PIC
-- Linux; Rasperry Pi; IoT
+- Rasperry Pi; IoT
+- Bash and Python basics
 
 ### Known technologies and other important things
 - MongoDB, MySQL, Firebase
