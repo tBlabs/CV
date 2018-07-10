@@ -62,7 +62,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Programs knowleage
 
-Visual Studio [Code] (+Vim extension), GIT, Notepad++, Eclipse, FreeCAD, GIMP 2, Notepad++, SVN, Yira, Code Collaborator; + many embedded stuff
+Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
 
 ### About me
 
