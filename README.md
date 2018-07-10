@@ -8,21 +8,21 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Core skills
 
-#### Front-end
-- React.js with Typescript
-- Angular 4+
-- jQuery
-
 #### Back-end
 - C# .NET Core
 - Node.js with Typescript
 - PHP
 
+#### Front-end
+- React.js with Typescript
+- Angular 4+
+- jQuery
+
 #### Embedded
-- PCB and 3D print design
 - C/C++ for STM32, AVR and PIC
 - Rasperry Pi; IoT
 - Bash and Python basics
+- PCB and 3D print design
 
 ### Known technologies and other important things
 - MongoDB, MySQL, Firebase
@@ -35,6 +35,8 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
+- 06.2017 - till now - **Societe Generale**
+  *.NET Core Developer | Banking things*
 - 10.2017 - 04.2018 - **GogoApps** 
   *Full-stack Developer | Various web apps*
 - 09.2015 – 09.2016 - **Medmia** 
@@ -64,7 +66,7 @@ Visual Studio [Code] (+Vim extension), GIT, Notepad++, Eclipse, FreeCAD, GIMP 2,
 
 ### About me
 
-Design patterns lover (especially CQRS and IoC). Can't live without Typescript, tests and OOP.
+Design patterns lover.
 
 Like to work alone and in small teams.
 
@@ -76,6 +78,6 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
-- www.youtube.com/watch?v=b54ivdZ4zfc
-- www.projekty.specteam.pl/tBlabs
-- www.github.com/tBlabs
+- My prelection: www.youtube.com/watch?v=b54ivdZ4zfc
+- My embbeded inventions: www.projekty.specteam.pl/tBlabs
+- Web stuff: www.github.com/tBlabs
