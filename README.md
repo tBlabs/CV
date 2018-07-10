@@ -35,7 +35,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
-- 06.2017 - till now - **Societe Generale**
+- 06.2018 - till now - **Societe Generale**
   *.NET Core Developer | Banking things*
 - 10.2017 - 04.2018 - **GogoApps** 
   *Full-stack Developer | Various web apps*
