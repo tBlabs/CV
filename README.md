@@ -58,7 +58,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   *Designer-programmer*
   
   Projects:
-  - GSM/GPS trucking system (C, AVR8)
+  - GSM/GPS tracking system (C, AVR8)
   - Building security system (C, STM32)
   - Many service terminals (C#, WinForms)
   
