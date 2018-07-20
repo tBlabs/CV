@@ -90,10 +90,10 @@ Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, 
 
 ### About me
 
-Design patterns lover.
-Like to work alone and in small teams.
-I often attend at programmers meetups (JS, .NET, Java, IoT). I was a speaker few times.
-Drive-license A & B.
+Design patterns lover.  
+Like to work alone and in small teams.  
+I often attend at programmers meetups (JS, .NET, Java, IoT). I was a speaker few times.  
+Drive-license A & B.  
 Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
