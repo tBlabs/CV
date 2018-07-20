@@ -39,7 +39,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   *C#.NET Core Developer*  
 
   Tasks:
-  - Banking system maintenance
+  - Banking system maintenance (C#.NET Core)
   
 - 10.2017 - 04.2018 - **GogoApps** (Web development)
   *Full-stack Developer*  
