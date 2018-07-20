@@ -45,7 +45,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   *Full-stack Developer*
   
   Projects:
-  - Kind of Uber for Heavy Trucks (backend side: Node with Typescript, DI, CQRS etc.)
+  - Kind of Uber for Heavy Trucks (backend side: Node with Typescript, DI, CQRS etc.)  
   - Cooling system management panel (fullstack: React and Node with Typescript)
   
 - 09.2015 – 09.2016 - **Medmia** (Medical equipment)
@@ -58,16 +58,16 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   *Designer-programmer*
   
   Projects:
-  - GSM/GPS tracking system (C, AVR8)
-  - Building security system (C, STM32)
+  - GSM/GPS tracking system (C, AVR8)  
+  - Building security system (C, STM32)  
   - Many service terminals (C#, WinForms)
   
 - 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)
   *Embedded and Web Developer*
   
   Projects:
-  - Infinite range spying cameras system (Python, Bash)
-  - Wireless cameras receiver website (PHP, jQuery)
+  - Infinite range spying cameras system (Python, Bash)  
+  - Wireless cameras receiver website (PHP, jQuery)  
   - Many experimental devices
   
 ### Best projects
