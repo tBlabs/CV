@@ -28,8 +28,8 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - MongoDB, MySQL, Firebase
 - REST, CQRS Bus, Socket.io
 - Redux, MobX, RxJS
-- IoC (DI), JWT
-- NPM, webpack, parcel
+- IoC (DI), JWT, Regex
+- NPM, Webpack, Parcel
 - jest, enzyme
 - SASS, bootstrap, Material-UI
 - SOLID, TDD, DDD, KISS, DRY
@@ -91,13 +91,9 @@ Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, 
 ### About me
 
 Design patterns lover.
-
 Like to work alone and in small teams.
-
 I often attend at programmers meetups (JS, .NET, Java, IoT). I was a speaker few times.
-
 Drive-license A & B.
-
 Hobbies: programming & electronic design; swimming and [motor]bike riding
 
 ### More at
