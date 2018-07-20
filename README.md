@@ -26,7 +26,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Known technologies and other important things
 - MongoDB, MySQL, Firebase
-- REST, CQRS Bus, Socket.io
+- REST, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - IoC (DI), JWT, Regex
 - NPM, Webpack, Parcel
@@ -70,7 +70,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   - Wireless cameras receiver website (PHP, jQuery)  
   - Many experimental devices
   
-### Best projects
+### Best non commercial projects
 - web: www.github.com/tBlabs
 - embedded: www.projekty.specteam.pl/tBlabs
 
@@ -100,4 +100,4 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
 - My prelection: www.youtube.com/watch?v=b54ivdZ4zfc
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
-- Web stuff: www.github.com/tBlabs
+- Web projects: www.github.com/tBlabs
