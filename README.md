@@ -35,26 +35,26 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
-- 06.2018 - till now - **Societe Generale** (Bank)
+- 06.2018 - till now - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
 
   Tasks:
   - Banking system maintenance (C#.NET Core)
   
-- 10.2017 - 04.2018 - **GogoApps** (Web development)
+- 10.2017 - 04.2018 - **GogoApps** (Web development)  
   *Full-stack Developer*  
 
   Projects:
   - Kind of Uber for Heavy Trucks (backend side: Node with Typescript, DI, CQRS etc.)  
   - Cooling system management panel (fullstack: React and Node with Typescript)
   
-- 09.2015 – 09.2016 - **Medmia** (Medical equipment)
+- 09.2015 – 09.2016 - **Medmia** (Medical equipment)  
   *C/C++ Developer*  
 
   Tasks:
   - Infusion pumps developing (C/C++)
   
-- 03.2013 – 06.2015 - **Omtech** (Security devices)
+- 03.2013 – 06.2015 - **Omtech** (Security devices)  
   *Designer-programmer*  
 
   Projects:
@@ -62,7 +62,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   - Building security system (C, STM32)  
   - Many service terminals (C#, WinForms)
   
-- 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)
+- 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)  
   *Embedded and Web Developer*  
 
   Projects:
