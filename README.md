@@ -58,8 +58,8 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   *Designer-programmer*  
 
   Projects:
-  - GSM/GPS tracking system (C, AVR8)  
-  - Building security system (C, STM32)  
+  - GSM/GPS tracking system (C; AVR8)  
+  - Building security system (C; STM32)  
   - Many service terminals (C#, WinForms)
   
 - 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)  
@@ -68,7 +68,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   Projects:
   - Infinite range spying cameras system (Python, Bash)  
   - Wireless cameras receiver website (PHP, jQuery)  
-  - Many experimental devices
+  - Many experimental devices (C; AVR, PIC)
   
 ### Best non commercial projects
 - web: www.github.com/tBlabs
