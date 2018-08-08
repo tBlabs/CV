@@ -25,12 +25,12 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - PCB and 3D print design
 
 ### Known technologies and other important things
-- MongoDB, MySQL, Firebase
+- MongoDB, MySQL, Firebase, EntityFramework
 - REST, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - IoC (DI), JWT, Regex
 - NPM, Webpack, Parcel
-- jest, enzyme
+- jest, enzyme, xUnit, Moq
 - SASS, bootstrap, Material-UI
 - SOLID, TDD, DDD, KISS, DRY
 
