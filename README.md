@@ -35,7 +35,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
-- 06.2018 - till now - **Societe Generale** (Bank)  
+- 05.2018 - till now - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
 
   Tasks:
@@ -88,11 +88,16 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
 
+### My dream stack
+
+- C#.NET Core (WebApi) @ Linux
+- React with Typescript | Angular 2+
+
 ### About me
 
 Design patterns lover.  
 Like to work alone and in small teams.  
-I often attend at programmers meetups (JS, .NET, Java, IoT). I was a speaker few times.  
+I often attend at programmers meetups (JS, .NET, Java, IoT). I was a speaker and workshop trainer few times.  
 Drive-license A & B.  
 Hobbies: programming & electronic design; swimming and [motor]bike riding
 
