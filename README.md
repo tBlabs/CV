@@ -6,7 +6,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - born in '86
 - lives in Warsaw
 
-### Core skills
+## Core skills
 
 #### Back-end
 - C# .NET Core
@@ -24,7 +24,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - Bash and Python
 - PCB and 3D print design
 
-### Known technologies and other important things
+## Known technologies and other important things
 - MongoDB, MySQL, Firebase, EntityFramework
 - REST, CQRS Bus, Sockets
 - Redux, MobX, RxJS
@@ -34,7 +34,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - SASS, Bootstrap, Material-UI
 - SOLID, TDD, DDD, KISS, DRY
 
-### Work history
+## Work history
 - 05.2018 - till now - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
 
@@ -70,35 +70,35 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   - Wireless cameras receiver website (PHP, jQuery)  
   - Many experimental devices (C; AVR, PIC)
   
-### Best non commercial projects
+## Best non commercial projects
 - web: www.github.com/tBlabs
 - embedded: www.projekty.specteam.pl/tBlabs
 
-### Education
+## Education
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
 - 02.2017 - till now - participant in many workshops (also as a trainer)
 
-### Currently learning
+## Currently learning
 - Azure @ chmurowisko.pl
 - DDD @ Evans book
 - EF Core @ work
 
-### Languages
+## Languages
 
 - English (B2/C1)
 - Polish (native)
 
-### Programs knowleage
+## Programs knowleage
 
 Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
 
-### My dream stack
+## My dream stack
 
 - C#.NET Core (WebApi) @ Linux
 - React with Typescript | Angular 2+
 - Node.js with Typescript
 
-### About me
+## About me
 
 Design patterns lover.  
 Like to work alone and in small teams.  
@@ -106,7 +106,7 @@ I often attend at programmers meetups (WarsawJS, WG.NET, etc). I was a speaker a
 Drive-license A & B.  
 Hobbies: programming & electronic design; swimming and [motor]bike riding.
 
-### More at
+## More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
 - My prelection: www.youtube.com/watch?v=b54ivdZ4zfc
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
