@@ -15,13 +15,13 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 #### Front-end
 - React.js with Typescript
-- Angular 4+
+- Angular 2+
 - jQuery
 
 #### Embedded
 - C/C++ for STM32, AVR and PIC
 - Rasperry Pi; IoT
-- Bash and Python basics
+- Bash and Python
 - PCB and 3D print design
 
 ### Known technologies and other important things
@@ -31,7 +31,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - IoC (DI), JWT, Regex
 - NPM, Webpack, Parcel
 - jest, enzyme, xUnit, Moq
-- SASS, bootstrap, Material-UI
+- SASS, Bootstrap, Material-UI
 - SOLID, TDD, DDD, KISS, DRY
 
 ### Work history
@@ -76,7 +76,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ### Education
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
-- 02.2017 - till now - participant in many workshops (also as trainer)
+- 02.2017 - till now - participant in many workshops (also as a trainer)
 
 ### Currently learning
 - Azure @ chmurowisko.pl
@@ -96,7 +96,7 @@ Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, 
 
 - C#.NET Core (WebApi) @ Linux
 - React with Typescript | Angular 2+
-- Node.js (only) with Typescript
+- Node.js with Typescript
 
 ### About me
 
