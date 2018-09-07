@@ -26,7 +26,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ## Known technologies and other important things
 - MongoDB, MySQL, Firebase, EntityFramework
-- REST, CQRS Bus, Sockets
+- REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - IoC (DI), JWT, Regex
 - NPM, Webpack, Parcel
@@ -90,7 +90,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 
 ## Programs knowleage
 
-Visual Studio [Code] (+Vim), Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
+Visual Studio [Code] (+Vim), SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
 
 ## My dream stack
 
