@@ -42,7 +42,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   - Banking system maintenance (C#.NET Core)
   
 - 10.2017 - 04.2018 - **GogoApps** (Web development)  
-  *Full-stack Developer*  
+  *Full-stack Node.ts and C#.NET Developer*  
 
   Projects:
   - Kind of Uber for Heavy Trucks (backend side: Node with Typescript, DI, CQRS etc.)  
@@ -55,7 +55,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   - Infusion pumps developing (C/C++)
   
 - 03.2013 – 06.2015 - **Omtech** (Security devices)  
-  *Designer-programmer*  
+  *Designer and C, C# programmer*  
 
   Projects:
   - GSM/GPS tracking system (C; AVR8)  
@@ -63,7 +63,7 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
   - Many service terminals (C#, WinForms)
   
 - 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)  
-  *Embedded and Web Developer*  
+  *Embedded C and PHP Web Developer*  
 
   Projects:
   - Infinite range spying cameras system (Python, Bash)  
