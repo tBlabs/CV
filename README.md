@@ -1,5 +1,5 @@
 # Tomasz Budrewicz
-Full-stack & embeedded engineer with 12 years of experience (over 8 years commercial)
+**Full-stack & embeedded engineer** with 14 years of experience (over 10 years commercial)
 
 - 507-293-714
 - wendro@wp.pl
@@ -78,11 +78,6 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
 - 02.2017 - till now - participant in many workshops (also as a trainer)
 
-## Currently learning
-- Azure @ chmurowisko.pl
-- DDD @ Evans book
-- EF Core @ work
-
 ## Languages
 
 - English (B2/C1)
@@ -91,12 +86,6 @@ Full-stack & embeedded engineer with 12 years of experience (over 8 years commer
 ## Programs knowleage
 
 Visual Studio [Code] (+Vim), SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
-
-## My dream stack
-
-- C#.NET Core (WebApi) @ Linux
-- React with Typescript | Angular 2+
-- Node.js with Typescript
 
 ## About me
 
