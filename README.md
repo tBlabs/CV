@@ -111,3 +111,8 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding.
 - My prelection: www.youtube.com/watch?v=b54ivdZ4zfc
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
+
+  
+    
+      
+*I hereby give consent for my personal data included in my application to be processed by anyone for the purpose of current and future recruitment processes under the Personal Data Protection Act. I provide my personal data voluntarily understanding that without it a proper recruitment process is deemed impossible.*
