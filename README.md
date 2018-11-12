@@ -25,14 +25,16 @@
 - PCB and 3D print design
 
 ## Known technologies and other important things
-- MongoDB, MySQL, Firebase, EntityFramework
+- DDD, TDD
+- CQRS, DI, ES
+- SOLID, KISS, DRY
+- MySQL, EntityFramework, MongoDB, Firebase
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
-- IoC (DI), JWT, Regex
+- JWT, Regex
 - NPM, Webpack, Parcel
-- jest, enzyme, xUnit, Moq
+- xUnit, Moq, jest 
 - SASS, Bootstrap, Material-UI
-- SOLID, TDD, DDD, KISS, DRY
 
 ## Work history
 - 05.2018 - till now - **Societe Generale** (Bank)  
