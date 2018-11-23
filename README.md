@@ -1,5 +1,5 @@
 # Tomasz Budrewicz
-**Full-stack & embeedded engineer** with 14 years of experience (over 10 years commercial)
+**Full-stack & embeedded engineer** with 14 years of experience (over 9 years commercial)
 
 - 507-293-714
 - wendro@wp.pl
@@ -21,7 +21,7 @@
 #### Embedded
 - C/C++ for STM32, AVR and PIC
 - Rasperry Pi; IoT
-- Bash and Python
+- Bash, Python
 - PCB and 3D print design
 
 ## Known technologies and other important things
