@@ -37,7 +37,7 @@
 - SASS, Bootstrap, Material-UI
 
 ## Work history
-- 05.2018 - till now - **Societe Generale** (Bank)  
+- 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
 
   Tasks:
@@ -47,8 +47,8 @@
   *Full-stack Node.ts and C#.NET Developer*  
 
   Projects:
-  - Kind of Uber for Heavy Trucks (backend side: Node with Typescript, DI, CQRS etc.)  
-  - Cooling system management panel (fullstack: React and Node with Typescript)
+  - Kind of Uber for Heavy Trucks (Node with Typescript)  
+  - Cooling system management panel (React; Node with Typescript)
   
 - 09.2015 – 09.2016 - **Medmia** (Medical equipment)  
   *C/C++ Developer*  
@@ -69,7 +69,7 @@
 
   Projects:
   - Infinite range spying cameras system (Python, Bash)  
-  - Wireless cameras receiver website (PHP, jQuery)  
+  - Wireless cameras web receiver (PHP, jQuery)  
   - Many experimental devices (C; AVR, PIC)
   
 ## Best non commercial projects
@@ -87,7 +87,7 @@
 
 ## Programs knowleage
 
-Visual Studio [Code] (+Vim), SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Notepad++, Jira, Code Collaborator & Many embedded stuff.
+Visual Studio [Code] (+Vim), SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & Many embedded stuff.
 
 ## About me
 
