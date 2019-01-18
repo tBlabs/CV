@@ -37,6 +37,13 @@
 - SASS, Bootstrap, Material-UI
 
 ## Work history
+
+- 01.2019 - till now - **Dentsu Aegis Network** (Software house)  
+  *.NET Fullstack TechLead*  
+  
+  Tasks:
+  - Technical Leader stuff
+  
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
 
