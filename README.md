@@ -28,7 +28,7 @@
 - DDD, TDD
 - CQRS, DI, ES
 - SOLID, KISS, DRY
-- MySQL, EntityFramework, MongoDB, Firebase
+- MySQL, MsSQL, EntityFramework, MongoDB, Firebase
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - JWT, Regex
@@ -98,8 +98,7 @@ Visual Studio [Code] (+Vim), SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, 
 
 ## About me
 
-Design patterns lover.  
-Like to work alone and in small teams.  
+TDD & design patterns lover.   
 I often attend at programmers meetups (WarsawJS, WG.NET, etc). I was a speaker and workshop trainer few times.  
 Drive-license A & B.  
 Hobbies: programming & electronic design; swimming and [motor]bike riding.
