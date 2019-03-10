@@ -4,7 +4,7 @@
 - 507-293-714
 - wendro@wp.pl
 - born in '86
-- lives in Warsaw
+- Warsaw, Poland
 
 ## Core skills
 
@@ -105,7 +105,7 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding.
 
 ## More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
-- My prelection: www.youtube.com/watch?v=b54ivdZ4zfc
+- My prelections: about Raspberry Pi & Node.js: www.youtube.com/watch?v=b54ivdZ4zfc, Dependency Injection Containers in JS: https://www.youtube.com/watch?v=KmwGes5yo98&t=322s
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
 
