@@ -25,7 +25,7 @@
 - PCB and 3D print design
 
 ## Known technologies and other important things
-- DDD, TDD
+- TDD, DDD
 - CQRS, DI, ES
 - SOLID, KISS, DRY
 - MySQL, MsSQL, EntityFramework, MongoDB, Firebase
@@ -33,7 +33,7 @@
 - Redux, MobX, RxJS
 - JWT, Regex
 - NPM, Webpack, Parcel
-- xUnit, Moq, jest 
+- xUnit, Moq, Shoudly, jest, moq.ts
 - SASS, Bootstrap, Material-UI
 
 ## Work history
@@ -72,7 +72,7 @@
   - Many service terminals (C#, WinForms)
   
 - 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)  
-  *Embedded C and PHP Web Developer*  
+  *Embedded C and PHP Developer*  
 
   Projects:
   - Infinite range spying cameras system (Python, Bash)  
@@ -105,7 +105,7 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding.
 
 ## More at
 - www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
-- My prelections: about Raspberry Pi & Node.js: www.youtube.com/watch?v=b54ivdZ4zfc, Dependency Injection Containers in JS: https://www.youtube.com/watch?v=KmwGes5yo98&t=322s
+- My prelections: "Raspberry Pi with Node": www.youtube.com/watch?v=b54ivdZ4zfc, "Dependency Injection Containers in Typescript": https://www.youtube.com/watch?v=KmwGes5yo98&t=322s
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
 
