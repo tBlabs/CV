@@ -1,5 +1,6 @@
 # Tomasz Budrewicz
-**Full-stack & embeedded engineer** with 14 years of experience (over 9 years commercial)
+**Full-stack & embeedded engineer** with 14 years of experience (over 9 years commercial)  
+TDD lover, SOLID developer :)
 
 - 507-293-714
 - wendro@wp.pl
@@ -39,10 +40,10 @@
 ## Work history
 
 - 01.2019 - till now - **Dentsu Aegis Network** (Software house)  
-  *.NET Fullstack TechLead*  
+  *.NET Technical Leader*  
   
   Tasks:
-  - Technical Leader stuff
+  - Tech Leader stuff
   
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
@@ -94,7 +95,7 @@
 
 ## Programs knowleage
 
-Visual Studio [Code] (+Vim), SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & Many embedded stuff.
+Visual Studio [Code] (+Vim), Jenkins, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
 ## About me
 
@@ -104,8 +105,9 @@ Drive-license A & B.
 Hobbies: programming & electronic design; swimming and [motor]bike riding.
 
 ## More at
-- www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
-- My prelections: "Raspberry Pi with Node": www.youtube.com/watch?v=b54ivdZ4zfc, "Dependency Injection Containers in Typescript": https://www.youtube.com/watch?v=KmwGes5yo98&t=322s
+- Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
+- My prelections: *"Raspberry Pi with Node"*: www.youtube.com/watch?v=b54ivdZ4zfc,  
+*"Dependency Injection Containers in Typescript"*: https://www.youtube.com/watch?v=KmwGes5yo98&t=322s
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
 
