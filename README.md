@@ -1,6 +1,5 @@
 # Tomasz Budrewicz
 **Full-stack & embeedded engineer** with 14 years of experience (over 9 years commercial)  
-TDD lover, SOLID developer :)
 
 - 507-293-714
 - wendro@wp.pl
@@ -43,7 +42,9 @@ TDD lover, SOLID developer :)
   *.NET Technical Leader*  
   
   Tasks:
-  - Tech Leader stuff
+  - Tech Leader stuff (tasks sharing, team mentoring etc)  
+  - .NET apps architect  
+  - Javascript team helper  
   
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
