@@ -15,10 +15,12 @@
 - Azure basics
 
 #### Front-end
+- Javascript (ES6+)
 - React.js with Typescript
 - Angular 2+
 - jQuery
-- HTML, JS, CSS, jQuery
+- HTML, CSS
+- Blazor basics
 
 #### Embedded
 - C/C++ for STM32, AVR and PIC
@@ -28,7 +30,7 @@
 #### General
 - Bash, PowerShell, Python
 - Windows, Linux
-- Jenkins, Team City, Octopus
+- Jenkins, TeamCity, Octopus
 
 ## Known technologies and other important things
 - TDD, DDD
