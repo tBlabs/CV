@@ -9,20 +9,26 @@
 ## Core skills
 
 #### Back-end
-- C# .NET Core
+- C# .NET Core, ASP.NET MVC
 - Node.js with Typescript
 - PHP
+- Azure basics
 
 #### Front-end
 - React.js with Typescript
 - Angular 2+
 - jQuery
+- HTML, JS, CSS, jQuery
 
 #### Embedded
 - C/C++ for STM32, AVR and PIC
 - Rasperry Pi; IoT
-- Bash, Python
 - PCB and 3D print design
+
+#### General
+- Bash, PowerShell, Python
+- Windows, Linux
+- Jenkins, Team City, Octopus
 
 ## Known technologies and other important things
 - TDD, DDD
@@ -79,7 +85,7 @@
   Projects:
   - Infinite range spying cameras system (Python, Bash)  
   - Wireless cameras web receiver (PHP, jQuery)  
-  - Many experimental devices (C; AVR, PIC)
+  - Many proof-of-concept prototypes (C; AVR, PIC)
   
 ## Best non commercial projects
 - web: www.github.com/tBlabs
@@ -96,12 +102,12 @@
 
 ## Programs knowleage
 
-Visual Studio [Code] (+Vim), Jenkins, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
+Visual Studio [Code] (+Vim), Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
 ## About me
 
 TDD & design patterns lover.   
-I often attend at programmers meetups (WarsawJS, WG.NET, etc). I was a speaker and workshop trainer few times.  
+Participant of many programmers' meetings (WarsawJS, WG.NET, etc). Speaker and workshops trainer.  
 Drive-license A & B.  
 Hobbies: programming & electronic design; swimming and [motor]bike riding.
 
