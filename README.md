@@ -15,8 +15,8 @@
 - Azure basics
 
 #### Front-end
-- Javascript (ES6+)
-- React.js with Typescript
+- Javascript (ES6+), Typescript
+- React.ts
 - Angular 2+
 - jQuery
 - HTML, CSS
@@ -40,7 +40,7 @@
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - JWT, Regex
-- NPM, Webpack, Parcel
+- NPM, Webpack, Parcel, lint
 - xUnit, Moq, Shoudly, jest, moq.ts
 - SASS, Bootstrap, Material-UI
 
