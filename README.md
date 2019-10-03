@@ -116,7 +116,7 @@ Hobbies: programming & electronic design; swimming and [motor]bike riding.
 ## More at
 - Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
 - My prelections: *"Raspberry Pi with Node"*: www.youtube.com/watch?v=b54ivdZ4zfc,  
-*"Dependency Injection Containers in Typescript"*: www.youtube.com/watch?v=KmwGes5yo98&t=322s
+*"Dependency Injection Containers in Typescript"*: www.youtube.com/watch?v=KmwGes5yo98
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
 
