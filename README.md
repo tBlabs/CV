@@ -71,7 +71,7 @@
   *C/C++ Developer*  
 
   Tasks:
-  - Infusion pumps developing (C/C++)
+  - Infusion pumps developing (C/C++; STM32)
   
 - 03.2013 – 06.2015 - **Omtech** (Security devices)  
   *Designer and C, C# programmer*  
@@ -104,7 +104,7 @@
 
 ## Programs knowleage
 
-Visual Studio [Code] (+Vim), Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
+Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
 ## About me
 
