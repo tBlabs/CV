@@ -32,7 +32,7 @@
 - Windows, Linux
 - Jenkins, TeamCity, Octopus
 
-## Known technologies and other important things
+## Known technologies and others
 - TDD, DDD
 - CQRS, DI, ES
 - SOLID, KISS, DRY
@@ -102,7 +102,7 @@
 - English (B2/C1)
 - Polish (native)
 
-## Programs knowleage
+## Programs knowledge
 
 Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
