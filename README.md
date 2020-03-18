@@ -1,5 +1,5 @@
 # Tomasz Budrewicz
-**Full-stack & embeedded engineer** with 15 years of experience (over 11 years commercial)  
+**Full-stack & embeedded engineer** with 15 years of experience (over 12 years commercial)  
 
 - 507-293-714
 - wendro@wp.pl
@@ -15,7 +15,7 @@
 - Azure basics
 
 #### Front-end
-- Javascript (ES6+), Typescript
+- Typescript, Javascript (ES6+)
 - React.ts
 - Angular 2+
 - jQuery
@@ -51,9 +51,9 @@
   *.NET Technical Leader*  
   
   Tasks:
-  - Tech Leader stuff (tasks sharing, team mentoring etc)  
-  - .NET apps architect  
-  - .NET and Javascript team mentor  
+  - Tech Leader stuff: tasks sharing, etc.   
+  - Taking care of full system architecture (.NET [Core], Typescript React)   
+  - .NET and Javascript team mentoring   
   
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
@@ -78,9 +78,9 @@
   *Designer and C, C# programmer*  
 
   Projects:
-  - GSM/GPS tracking system (C; AVR8)  
-  - Building security system (C; STM32)  
-  - Many service terminals (C#, WinForms)
+  - GPS tracking system (C; AVR8)  
+  - Security system (C; STM32)  
+  - Lot's of serviceman tools (C#, WinForms)
   
 - 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)  
   *Embedded C and PHP Developer*  
@@ -110,9 +110,9 @@ Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Post
 ## About me
 
 TDD & design patterns lover.   
-Participant of many programmers' meetings (WarsawJS, WG.NET, etc). Speaker and workshops trainer.  
+Participant of many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshops trainer.  
 Drive-license A & B.  
-Hobbies: programming & electronic design; swimming and [motor]bike riding. Chess.
+Hobbies: Programming & electronic design; Swimming and [motor]bike riding; Chess.
 
 ## More at
 - Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
