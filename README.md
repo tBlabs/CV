@@ -39,9 +39,10 @@
 - MySQL, MsSQL, EntityFramework, MongoDB, Firebase
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
-- JWT, Regex
+- JWT, OAuth
+- Regex, Linq
 - NPM, Webpack, Parcel, lint
-- xUnit, Moq, Shoudly, jest, moq.ts
+- xUnit, Moq, Shoudly, jest, moq.ts, cypress
 - SASS, Bootstrap, Material-UI
 
 ## Work history
@@ -111,7 +112,7 @@ Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Post
 TDD & design patterns lover.   
 Participant of many programmers' meetings (WarsawJS, WG.NET, etc). Speaker and workshops trainer.  
 Drive-license A & B.  
-Hobbies: programming & electronic design; swimming and [motor]bike riding.
+Hobbies: programming & electronic design; swimming and [motor]bike riding. Chess.
 
 ## More at
 - Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
