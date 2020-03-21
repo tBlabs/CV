@@ -57,9 +57,9 @@ Electronic lover since childhood. Started programming at high school and can't s
   *.NET Technical Leader*  
   
   Tasks:
-  - Tech Leader stuff: tasks sharing, etc.   
-  - Taking care of full system architecture (.NET [Core], Typescript React)   
-  - .NET and Javascript team mentoring   
+  - Tech Leader stuff: tasks sharing, .NET and Javascript team mentoring, etc.  
+  - Taking care of full system architecture (.NET [Core], Typescript React)    
+  - *more details at appendix #1 (at the end of this document)*
   
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
@@ -127,7 +127,20 @@ Hobbies: Programming & electronic design; Swimming and [motor]bike riding; Chess
 - My embbeded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
 
+----------------------------------------------------------------------------------------
+
+# Appendix #1
+
+**Project details @ Dentsu Aegis Network**  
+
+Refactor and optimization of existing systems to newer stack: .NET Core and Typescript.  
+Core of the system was a web api for manageig users and their resources.  
+- System architecture based on CQRS  
+- Existing databases safe refactor  
+- Test driven development (high unit tests coverage)
+- Development of frontend components using Typescript and IoC
+- e2e automatic tests (cypress)
   
-    
+----------------------------------------------------------------------------------------    
       
 *I hereby give consent for my personal data included in my application to be processed by anyone for the purpose of current and future recruitment processes under the Personal Data Protection Act. I provide my personal data voluntarily understanding that without it a proper recruitment process is deemed impossible.*
