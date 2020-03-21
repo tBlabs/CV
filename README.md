@@ -2,10 +2,10 @@
 **Full-stack & embeedded engineer** with 15 years of experience (over 12 years commercial)  
  
 *Specialized in web technologies, based on .NET Core and Typescript.  
-For my private projects I mainly use Node and C.  
-I was working for 6 companies so far, including banking, security systems, spy gadgets and medical equipment.  
-I'm oriented at good design patterns and Test Driven Development.  
-I loved electronic since I was a kid. I started programming at high school and I can't stop since that time :)*
+For private projects mainly using Node and C.  
+Working for 6 companies so far, including banking, security systems, spy gadgets and medical equipment.  
+Oriented at good design patterns and Test Driven Development.  
+Electronic lover since childhood. Started programming at high school and can't stop since that time :)*
 
 - 507-293-714
 - wendro@wp.pl
