@@ -58,21 +58,23 @@ Electronic lover since childhood. Started programming at high school and can't s
   
   Tasks:
   - Tech Leader stuff: tasks sharing, .NET and Javascript team mentoring, etc.  
-  - Taking care of full system architecture (.NET [Core], Typescript React)    
-  - *more details at appendix #1 (at the end of this document)*
+  - Taking care of full system architecture (.NET [Core], Typescript React)     
+  - *more details at appendix #A3 (at the end of this document)*
   
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
   *C#.NET Core Developer*  
 
   Tasks:
-  - Banking system maintenance (C#.NET Core)
+  - Banking system maintenance (C#.NET Core)  
+  - *more details at appendix #A2 (at the end of this document)*
   
 - 10.2017 - 04.2018 - **GogoApps** (Web development)  
   *Full-stack Node.ts and C#.NET Developer*  
 
   Projects:
   - Kind of Uber for Heavy Trucks (Node with Typescript)  
-  - Cooling system management panel (React; Node with Typescript)
+  - Cooling system management panel (React; Node with Typescript)  
+  - *more details at appendix #A1 (at the end of this document)*
   
 - 09.2015 – 09.2016 - **Medmia** (Medical equipment)  
   *C/C++ Developer*  
@@ -129,7 +131,7 @@ Hobbies: Programming & electronic design; Swimming and [motor]bike riding; Chess
 
 ----------------------------------------------------------------------------------------
 
-# Appendix #1
+# Appendix #A3
 
 **Project details @ Dentsu Aegis Network**  
 
@@ -140,7 +142,32 @@ Core of the system was a web api for manageig users and their resources.
 - Test driven development (high unit tests coverage)
 - Development of frontend components using Typescript and IoC
 - e2e automatic tests (cypress)
-  
+
+**Technologies used:** C#, .Net 4.5, .Net Core 3.1, Typescript 3.8, React 16, MsSql, Entity Framework, Frontend, Backend, TDD, XUnit, cypress, inversify
+ 
+# Appendix #A2
+
+**Project details @ Societe Generale**
+
+Application for banking transactions in C# .NET Core.
+- Design based on MVC and few independent CRON processes.
+- Developed unit and integration tests for components.
+- On a client side: visual designer for process flow
+
+**Technologies used:** C#, .Net Core 2, MsSql, Entity Framework, Backend, TDD, XUnit, Quartz
+
+# Appendix #A1
+
+**Projectt details @ Gogoapps**
+
+Kind of Uber for a heavy trucks. App written in Node with Typescript and React.
+- Design based on CQRS, REST API, Socket.io and MongoDb,
+- Development driven by unit and e2e tests,
+- Two clients: web and mobile (android)
+
+**Technologies used:** Node, Typescript, MongoDb, SocketIO, inversify, React, Backend, Frontend, Push notifications
+
+ 
 ----------------------------------------------------------------------------------------    
       
 *I hereby give consent for my personal data included in my application to be processed by anyone for the purpose of current and future recruitment processes under the Personal Data Protection Act. I provide my personal data voluntarily understanding that without it a proper recruitment process is deemed impossible.*
