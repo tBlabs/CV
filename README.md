@@ -1,5 +1,5 @@
 # Tomasz Budrewicz
-**Full-stack & embeedded engineer** with 15 years of experience (over 12 years commercial)  
+**Full-stack & embedded engineer** with 15 years of experience (over 12 years commercial)  
  
 *Specialized in web technologies, based on .NET Core and Typescript.  
 For private projects mainly using Node and C.  
@@ -30,7 +30,7 @@ Electronic lover since childhood. Started programming at high school and can't s
 
 #### Embedded
 - C/C++ for STM32, AVR and PIC
-- Rasperry Pi; IoT
+- Raspberry Pi; IoT
 - PCB and 3D print design
 
 #### General
@@ -76,13 +76,13 @@ Electronic lover since childhood. Started programming at high school and can't s
   - Cooling system management panel (React; Node with Typescript)  
   - *more details at appendix #A1 (at the end of this document)*
   
-- 09.2015 – 09.2016 - **Medmia** (Medical equipment)  
+- 09.2015 - 09.2016 - **Medmia** (Medical equipment)  
   *C/C++ Developer*  
 
   Tasks:
   - Infusion pumps developing (C/C++; STM32)
   
-- 03.2013 – 06.2015 - **Omtech** (Security devices)  
+- 03.2013 - 06.2015 - **Omtech** (Security devices)  
   *Designer and C, C# programmer*  
 
   Projects:
@@ -90,7 +90,7 @@ Electronic lover since childhood. Started programming at high school and can't s
   - Security system (C; STM32)  
   - Lot's of serviceman tools (C#, WinForms)
   
-- 03.2008 – 09.2012 - **SpecTeam** (Spying gadgets)  
+- 03.2008 - 09.2012 - **SpecTeam** (Spying gadgets)  
   *Embedded C and PHP Developer*  
 
   Projects:
@@ -126,7 +126,7 @@ Hobbies: Programming & electronic design; Swimming and [motor]bike riding; Chess
 - Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
 - My prelections: *"Raspberry Pi with Node"*: www.youtube.com/watch?v=b54ivdZ4zfc,  
 *"Dependency Injection Containers in Typescript"*: www.youtube.com/watch?v=KmwGes5yo98
-- My embbeded inventions: www.projekty.specteam.pl/tBlabs
+- My embedded inventions: www.projekty.specteam.pl/tBlabs
 - Web projects: www.github.com/tBlabs
 
 ----------------------------------------------------------------------------------------
@@ -136,7 +136,7 @@ Hobbies: Programming & electronic design; Swimming and [motor]bike riding; Chess
 **Project details @ Dentsu Aegis Network**  
 
 Refactor and optimization of existing systems to newer stack: .NET Core and Typescript.  
-Core of the system was a web api for manageig users and their resources.  
+Core of the system was a web api for managing users and their resources.  
 - System architecture based on CQRS  
 - Existing databases safe refactor  
 - Test driven development (high unit tests coverage)
@@ -158,7 +158,7 @@ Application for banking transactions in C# .NET Core.
 
 # Appendix #A1
 
-**Projectt details @ Gogoapps**
+**Project details @ Gogoapps**
 
 Kind of Uber for a heavy trucks. App written in Node with Typescript and React.
 - Design based on CQRS, REST API, Socket.io and MongoDb,
