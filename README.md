@@ -5,7 +5,7 @@
 For private projects mainly using Node and C.  
 Working for 6 companies so far, including banking, security systems, spy gadgets and medical equipment.  
 Oriented at good design patterns and Test Driven Development.  
-Electronic lover since childhood. Started programming at high school and can't stop since that time :)*
+Electronic and embedded lover since childhood.*
 
 - 507-293-714
 - wendro@wp.pl
@@ -54,22 +54,22 @@ Electronic lover since childhood. Started programming at high school and can't s
 ## Work history
 
 - 01.2019 - till now - **Dentsu Aegis Network** (Software house)  
-  *.NET Technical Leader*  
+  *.NET Technical Leader* (backend: 60%, frontend: 30%, management: 10%)  
   
   Tasks:
   - Tech Leader stuff: tasks sharing, .NET and Javascript team mentoring, etc.  
   - Taking care of full system architecture (.NET [Core], Typescript React)     
-  - *more details at appendix #A3 (at the end of this document)*
+  - *more details at appendix #A3 (at the end of this document)*  
   
 - 05.2018 - 12.2018 - **Societe Generale** (Bank)  
-  *C#.NET Core Developer*  
+  *C#.NET Core Developer* (backend: 100%)  
 
   Tasks:
   - Banking system maintenance (C#.NET Core)  
   - *more details at appendix #A2 (at the end of this document)*
-  
+    
 - 10.2017 - 04.2018 - **GogoApps** (Web development)  
-  *Full-stack Node.ts and C#.NET Developer*  
+  *Full-stack Node.ts and C#.NET Developer* (backend: 80%, frontend: 20%)  
 
   Projects:
   - Kind of Uber for Heavy Trucks (Node with Typescript)  
@@ -77,13 +77,13 @@ Electronic lover since childhood. Started programming at high school and can't s
   - *more details at appendix #A1 (at the end of this document)*
   
 - 09.2015 - 09.2016 - **Medmia** (Medical equipment)  
-  *C/C++ Developer*  
+  *C/C++ Developer* (embedded: 100%)  
 
   Tasks:
   - Infusion pumps developing (C/C++; STM32)
   
 - 03.2013 - 06.2015 - **Omtech** (Security devices)  
-  *Designer and C, C# programmer*  
+  *Designer and C, C# programmer* (embedded: 80%, desktop: 20%)    
 
   Projects:
   - GPS tracking system (C; AVR8)  
@@ -91,13 +91,13 @@ Electronic lover since childhood. Started programming at high school and can't s
   - Lot's of serviceman tools (C#, WinForms)
   
 - 03.2008 - 09.2012 - **SpecTeam** (Spying gadgets)  
-  *Embedded C and PHP Developer*  
+  *Embedded C and PHP Developer* (embedded: 50%, backend: 30%, frontend: 20%)  
 
   Projects:
   - Infinite range spying cameras system (Python, Bash)  
   - Wireless cameras web receiver (PHP, jQuery)  
   - Many proof-of-concept prototypes (C; AVR, PIC)
-  
+   
 ## Best non commercial projects
 - web: www.github.com/tBlabs
 - embedded: www.projekty.specteam.pl/tBlabs
