@@ -53,8 +53,8 @@ Electronic and embedded lover since childhood.*
 
 ## Work history
 
-- 01.2019 - till now - **Dentsu Aegis Network** (Software house)  
-  *.NET Technical Leader* (backend: 60%, frontend: 30%, management: 10%)  
+- 01.2019 - 06.2020 - **Dentsu Aegis Network** (Software house)  
+  *.NET Technical Leader* (backend: 60%, frontend: 30%, team management: 10%)  
   
   Tasks:
   - Tech Leader stuff: tasks sharing, .NET and Javascript team mentoring, etc.  
@@ -119,8 +119,8 @@ Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Post
 
 TDD & design patterns lover.   
 Participant of many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshops trainer.  
-Drive-license A & B.  
-Hobbies: Programming & electronic design; Swimming and [motor]bike riding; Chess.
+Drive-license A & B. Soon also PPL(A).  
+Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing and [motor]bike riding; Chess.
 
 ## More at
 - Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
