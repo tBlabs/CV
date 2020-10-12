@@ -143,7 +143,7 @@ Core of the system was a web api for managing users and their resources.
 - Development of frontend components using Typescript and IoC
 - e2e automatic tests (cypress)
 
-**Technologies used:** C#, .Net 4.5, .Net Core 3.1, Typescript 3.8, React 16, MsSql, Entity Framework, Frontend, Backend, TDD, XUnit, cypress, inversify
+**Technologies used:** C#, .Net 4.5, .Net Core 3.1, Typescript 3.8, React 16, MsSql, Entity Framework, TDD, xUnit, cypress, inversify
  
 # Appendix #A2
 
@@ -154,7 +154,7 @@ Application for banking transactions in C# .NET Core.
 - Developed unit and integration tests for components.
 - On a client side: visual designer for process flow
 
-**Technologies used:** C#, .Net Core 2, MsSql, Entity Framework, Backend, TDD, XUnit, Quartz
+**Technologies used:** C#, .Net Core 2, MsSql, Entity Framework, TDD, xUnit, Quartz
 
 # Appendix #A1
 
@@ -165,7 +165,7 @@ Kind of Uber for a heavy trucks. App written in Node with Typescript and React.
 - Development driven by unit and e2e tests,
 - Two clients: web and mobile (android)
 
-**Technologies used:** Node, Typescript, MongoDb, SocketIO, inversify, React, Backend, Frontend, Push notifications
+**Technologies used:** Node, Typescript, MongoDb, SocketIO, inversify, React, Push notifications
 
  
 ----------------------------------------------------------------------------------------    
