@@ -76,6 +76,12 @@ Electronic and embedded lover since childhood.*
   - Cooling system management panel (React; Node with Typescript)  
   - *more details at appendix #A1 (at the end of this document)*
   
+- 10.2016 - 09.2017 - **specTeam** again (Spy software and hardware)  
+  *Web & Embedded Developer* (hardware: 10%, software: 90%)
+  
+  Tasks:
+  - Existing software maintaince (C#, Node)
+  
 - 09.2015 - 09.2016 - **Medmia** (Medical equipment)  
   *C/C++ Developer* (embedded: 100%)  
 
@@ -119,15 +125,15 @@ Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Post
 
 TDD & design patterns lover.   
 Participant of many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshops trainer.  
-Drive-license A & B. Soon also PPL(A).  
+Drive-license A & B.  
 Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing and [motor]bike riding; Chess.
 
 ## More at
+- Web and embedded projects: www.github.com/tBlabs  
 - Linkedin: www.linkedin.com/in/tomasz-budrewicz-b5066ab2/
 - My prelections: *"Raspberry Pi with Node"*: www.youtube.com/watch?v=b54ivdZ4zfc,  
 *"Dependency Injection Containers in Typescript"*: www.youtube.com/watch?v=KmwGes5yo98
-- My embedded inventions: www.projekty.specteam.pl/tBlabs
-- Web projects: www.github.com/tBlabs
+- Embedded inventions: www.projekty.specteam.pl/tBlabs
 
 ----------------------------------------------------------------------------------------
 
@@ -143,7 +149,7 @@ Core of the system was a web api for managing users and their resources.
 - Development of frontend components using Typescript and IoC
 - e2e automatic tests (cypress)
 
-**Technologies used:** C#, .Net 4.5, .Net Core 3.1, Typescript 3.8, React 16, MsSql, Entity Framework, TDD, xUnit, cypress, inversify
+**Technologies used:** C#, .Net 4.5, .Net Core 3.1, Typescript 3.8, React 16, MsSql, Entity Framework, xUnit, cypress, inversify
  
 # Appendix #A2
 
@@ -154,7 +160,7 @@ Application for banking transactions in C# .NET Core.
 - Developed unit and integration tests for components.
 - On a client side: visual designer for process flow
 
-**Technologies used:** C#, .Net Core 2, MsSql, Entity Framework, TDD, xUnit, Quartz
+**Technologies used:** C#, .Net Core 2, MsSql, Entity Framework, xUnit, Quartz
 
 # Appendix #A1
 
@@ -165,7 +171,7 @@ Kind of Uber for a heavy trucks. App written in Node with Typescript and React.
 - Development driven by unit and e2e tests,
 - Two clients: web and mobile (android)
 
-**Technologies used:** Node, Typescript, MongoDb, SocketIO, inversify, React, Push notifications
+**Technologies used:** Node, Typescript, MongoDb, SocketIO, inversify, React, Push notifications, jest, moq.ts
 
  
 ----------------------------------------------------------------------------------------    
