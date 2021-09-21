@@ -1,9 +1,9 @@
 # Tomasz Budrewicz
-**Full-stack & embedded engineer** with 15 years of experience (over 12 years commercial)  
+**Full-stack & Embedded engineer** with 15 years of experience (over 12 years commercial)  
  
 *Specialized in web technologies, based on .NET Core and Typescript.  
 For private projects mainly using Node and C.  
-Working for 6 companies so far, including banking, security systems, spy gadgets and medical equipment.  
+Working for 7 companies so far, including banking, security systems, spy gadgets and medical equipment.  
 Oriented at good design patterns and Test Driven Development.  
 Electronic and embedded lover since childhood.*
 
@@ -19,6 +19,7 @@ Electronic and embedded lover since childhood.*
 - Node.js with Typescript
 - PHP
 - Azure basics
+- SQL (MySQL, MSSQL, Postgress), noSQL (MongoDB), Entity Framework
 
 #### Front-end
 - Typescript, Javascript (ES6+)
@@ -34,9 +35,9 @@ Electronic and embedded lover since childhood.*
 - PCB and 3D print design
 
 #### General
-- Bash, PowerShell, Python
+- Bash, PowerShell, Python, Git, Docker
 - Windows, Linux
-- Jenkins, TeamCity, Octopus
+- Jenkins, TeamCity, Octopus, RabbitMQ
 
 ## Known technologies and others
 - TDD, DDD
@@ -53,6 +54,13 @@ Electronic and embedded lover since childhood.*
 
 ## Work history
 
+- 01.2021 - till now - **Variant** (Product company)  
+  *.NET Developer* (backend: 90%, frontend: 10%) 
+  
+  Tasks:
+  - System maintenance (C# .NET Core, React)
+  - New features (C# .NET Core)
+ 
 - 01.2019 - 06.2020 - **Dentsu Aegis Network** (Software house)  
   *.NET Technical Leader* (backend: 60%, frontend: 30%, team management: 10%)  
   
