@@ -43,10 +43,11 @@ Electronic and embedded lover since childhood.*
 - TDD, DDD
 - CQRS, DI, ES
 - SOLID, KISS, DRY
-- MySQL, MsSQL, EntityFramework, MongoDB, Firebase
+- MySQL, MsSQL, PostgreSQL, EntityFramework, MongoDB, Firebase
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
-- JWT, OAuth
+- JWT, OAuth basics
+- OWASP
 - Regex, Linq
 - NPM, Webpack, Parcel, lint
 - xUnit, Moq, Shoudly, jest, moq.ts, cypress
@@ -54,7 +55,7 @@ Electronic and embedded lover since childhood.*
 
 ## Work history
 
-- 01.2021 - till now - **Variant** (Product company)  
+- 01.2021 - till now - **Variant** (Software for transport)  
   *.NET Developer* (backend: 90%, frontend: 10%) 
   
   Tasks:
@@ -114,7 +115,7 @@ Electronic and embedded lover since childhood.*
    
 ## Best non commercial projects
 - web: www.github.com/tBlabs
-- embedded: www.projekty.specteam.pl/tBlabs
+- embedded: www.projekty.specteam.pl/tBlabs (temporary disabled)
 
 ## Education
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
