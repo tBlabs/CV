@@ -1,16 +1,16 @@
 # Tomasz Budrewicz
 **Full-stack & Embedded engineer** with 15 years of experience (over 12 years commercial)  
- 
+
 *Specialized in web technologies, based on .NET Core and Typescript.  
 For private projects mainly using Node and C.  
 Working for 7 companies so far, including banking, security systems, spy gadgets and medical equipment.  
 Oriented at good design patterns and Test Driven Development.  
 Electronic and embedded lover since childhood.*
 
-- 507-293-714
+- +48 507-293-714
 - wendro@wp.pl
 - born in '86
-- Warsaw, Poland
+- Warsaw, Poland | remote
 
 ## Core skills
 
@@ -135,7 +135,8 @@ Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Post
 TDD & design patterns lover.   
 Participant of many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshops trainer.  
 Drive-license A & B.  
-Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing and [motor]bike riding; Chess.
+Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing and [motor]bike riding; Chess.  
+\*\*\*\*\* \*\*\*              
 
 ## More at
 - Web and embedded projects: www.github.com/tBlabs  
