@@ -1,8 +1,8 @@
 # Tomasz Budrewicz
-**Full-stack & Embedded engineer** with 16 years of experience (over 12 years commercial)  
+**Full-stack & Embedded engineer** with 17 years of experience (over 14 years commercial)  
 
-*Specialized in web technologies, based on .NET Core and Typescript.  
-For private projects mainly using Node and C.  
+*Specialized in web technologies, based on `.NET Core` and `Typescript`.  
+For private projects mainly using `Node` and `C`.  
 Working for 8 companies so far, including banking, security systems, spy gadgets and medical equipment.  
 Oriented at good design patterns and Test Driven Development.  
 Electronic and embedded lover since childhood.*
@@ -25,7 +25,7 @@ Electronic and embedded lover since childhood.*
 - Typescript, Javascript (ES6+)
 - React.ts
 - Angular 2+
-- truffle (www.trufflejs.org) 
+- truffle (www.trufflejs.org), this is my own frontend framework 
 - jQuery
 - HTML, CSS
 - Blazor basics
@@ -38,13 +38,13 @@ Electronic and embedded lover since childhood.*
 #### General
 - Bash, PowerShell, Python, Git, Docker
 - Windows, Linux
-- Jenkins, TeamCity, Octopus, RabbitMQ
+- Jenkins, TeamCity, Octopus, RabbitMQ, Elasticsearch
 
 ## Known technologies and others
 - TDD, DDD
 - CQRS, DI, ES
 - SOLID, KISS, DRY
-- MySQL, MsSQL, PostgreSQL, EntityFramework, MongoDB, Firebase
+- MySQL, MsSQL, PostgreSQL, EntityFramework, MongoDB, Firebase, Elasticsearch
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - JWT, OAuth basics
@@ -57,13 +57,13 @@ Electronic and embedded lover since childhood.*
 ## Work history
 
 - 01.2022 - till now - **Corvid** (Security software)  
-  *.NET Developer* (backend: 80%, frontend: 20%) 
+  *.NET Fullstack Developer* (backend: 80%, frontend: 20%) 
   
   Projects:
   - Multiple .net microservices (.net 6)
   - .net web client (blazor)
  
-- 01.2021 - 12.2022 - **Variant** (Software for transport)  
+- 01.2021 - 12.2022 - **Variant** (Heavy-duty fleet management)  
   *.NET Developer* (backend: 90%, frontend: 10%) 
   
   Tasks:
