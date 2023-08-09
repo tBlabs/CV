@@ -3,7 +3,7 @@
 
 *Specialized in web technologies, based on `.NET Core` and `Typescript`.  
 For private projects mainly using `Node` and `C`.  
-Working for 8 companies so far, including banking, security systems, spy gadgets and medical equipment.  
+Working for 8 companies so far, including banking, security systems, spy gadgets, and medical equipment.  
 Oriented at good design patterns and Test Driven Development.  
 Electronic and embedded lover since childhood.*
 
@@ -19,13 +19,14 @@ Electronic and embedded lover since childhood.*
 - Node.js with Typescript
 - PHP
 - Azure basics
-- SQL (MySQL, MSSQL, Postgress), noSQL (MongoDB), Entity Framework
+- SQL (MySQL, MSSQL, Postgress), NoSQL (MongoDB), Entity Framework, Elastic stack
+- RabbitMq
 
 #### Front-end
 - Typescript, Javascript (ES6+)
 - React.ts
 - Angular 2+
-- truffle (www.trufflejs.org), this is my own frontend framework 
+- [truffle.js](http://truffle.specteam.pl) (this is my own frontend framework) 
 - jQuery
 - HTML, CSS
 - Blazor basics
@@ -39,6 +40,7 @@ Electronic and embedded lover since childhood.*
 - Bash, PowerShell, Python, Git, Docker
 - Windows, Linux
 - Jenkins, TeamCity, Octopus, RabbitMQ, Elasticsearch
+- Gitlab CI/CD
 
 ## Known technologies and others
 - TDD, DDD
@@ -48,7 +50,6 @@ Electronic and embedded lover since childhood.*
 - REST, SOAP, CQRS Bus, Sockets
 - Redux, MobX, RxJS
 - JWT, OAuth basics
-- OWASP
 - Regex, Linq
 - NPM, Webpack, Parcel, lint
 - xUnit, Moq, Shoudly, jest, moq.ts, cypress
@@ -56,12 +57,12 @@ Electronic and embedded lover since childhood.*
 
 ## Work history
 
-- 01.2022 - till now - **Corvid** (Security software)  
+- 01.2022 - 05.2023 - **Corvid** (Security software)  
   *.NET Fullstack Developer* (backend: 80%, frontend: 20%) 
   
   Projects:
   - Multiple .net microservices (.net 6)
-  - .net web client (blazor)
+  - .net web client (Blazor)
  
 - 01.2021 - 12.2022 - **Variant** (Heavy-duty fleet management)  
   *.NET Developer* (backend: 90%, frontend: 10%) 
@@ -97,7 +98,7 @@ Electronic and embedded lover since childhood.*
   *Web & Embedded Developer* (hardware: 10%, software: 90%)
   
   Tasks:
-  - Existing software maintaince (C#, Node)
+  - Existing software maintenance (C#, Node)
   
 - 09.2015 - 09.2016 - **Medmia** (Medical equipment)  
   *C/C++ Developer* (embedded: 100%)  
@@ -111,7 +112,7 @@ Electronic and embedded lover since childhood.*
   Projects:
   - GPS tracking system (C; AVR8)  
   - Security system (C; STM32)  
-  - Lot's of serviceman tools (C#, WinForms)
+  - Lots of serviceman tools (C#, WinForms)
   
 - 03.2008 - 09.2012 - **SpecTeam** (Spying gadgets)  
   *Embedded C and PHP Developer* (embedded: 50%, backend: 30%, frontend: 20%)  
@@ -121,9 +122,9 @@ Electronic and embedded lover since childhood.*
   - Wireless cameras web receiver (PHP, jQuery)  
   - Many proof-of-concept prototypes (C; AVR, PIC)
    
-## Best non commercial projects
+## Best non-commercial projects
 - web: www.github.com/tBlabs
-- embedded: www.projekty.specteam.pl/tBlabs (temporary disabled)
+- embedded: www.projekty.specteam.pl/tBlabs (temporarily disabled)
 
 ## Education
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
@@ -136,14 +137,14 @@ Electronic and embedded lover since childhood.*
 
 ## Programs knowledge
 
-Visual Studio [Code] (+Vim), Resharper, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
+Visual Studio [Code] (+Vim), Resharper, Notepad++, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
 ## About me
 
 TDD & design patterns lover.   
-Participant of many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshops trainer.  
+Participated in many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshop trainer.  
 Drive-license A & B.  
-Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing and [motor]bike riding; Chess.              
+Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing, kitesurfing, and [motor]bike riding; Chess.              
 
 ## More at
 - Web and embedded projects: www.github.com/tBlabs  
@@ -158,11 +159,11 @@ Hobbies: Programming & electronic design; Swimming, wakeboarding, windsurfing an
 
 **Project details @ Dentsu Aegis Network**  
 
-Refactor and optimization of existing systems to newer stack: .NET Core and Typescript.  
-Core of the system was a web api for managing users and their resources.  
+Refactor and optimization of existing systems to the newer stack: .NET Core and Typescript.  
+The core of the system was a web API for managing users and their resources.  
 - System architecture based on CQRS  
 - Existing databases safe refactor  
-- Test driven development (high unit tests coverage)
+- Test-driven development (high unit tests coverage)
 - Development of frontend components using Typescript and IoC
 - e2e automatic tests (cypress)
 
@@ -173,9 +174,9 @@ Core of the system was a web api for managing users and their resources.
 **Project details @ Societe Generale**
 
 Application for banking transactions in C# .NET Core.
-- Design based on MVC and few independent CRON processes.
+- Design based on MVC and a few independent CRON processes.
 - Developed unit and integration tests for components.
-- On a client side: visual designer for process flow
+- On the client side: visual designer for process flow
 
 **Technologies used:** C#, .Net Core 2, MsSql, Entity Framework, xUnit, Quartz
 
@@ -183,8 +184,8 @@ Application for banking transactions in C# .NET Core.
 
 **Project details @ Gogoapps**
 
-Kind of Uber for a heavy trucks. App written in Node with Typescript and React.
-- Design based on CQRS, REST API, Socket.io and MongoDb,
+Kind of Uber for heavy trucks. An app is written in Node with Typescript and React.
+- Design based on CQRS, REST API, Socket.io, and MongoDb,
 - Development driven by unit and e2e tests,
 - Two clients: web and mobile (android)
 
