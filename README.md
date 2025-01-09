@@ -12,7 +12,7 @@ Electronic and embedded lover since childhood.*
 - born in '86
 - Warsaw, Poland | remote
 
-## Core skills
+# Core skills
 
 #### Back-end
 - C# .NET Core, ASP.NET MVC
@@ -42,7 +42,7 @@ Electronic and embedded lover since childhood.*
 - Jenkins, TeamCity, Octopus, RabbitMQ, Elasticsearch
 - Gitlab CI/CD
 
-## Known technologies and others
+#### Known technologies and others
 - TDD, DDD
 - CQRS, DI, ES
 - SOLID, KISS, DRY
@@ -55,12 +55,12 @@ Electronic and embedded lover since childhood.*
 - xUnit, Moq, Shoudly, jest, moq.ts, cypress
 - SASS, Bootstrap, Material-UI
 
-## Work history
+# Work history
 
-- 06.2023 - till now - **specTeam** (Rental software)
+- 06.2023 - till now - **specTeam** (Rental software)  
   *Node Fullstack Leader*
 
-  Projects:
+  Tasks:
   - Website and subsystems maintenance (mainly Node.ts)
 
 - 01.2022 - 05.2023 - **Corvid** (Security software)  
@@ -132,7 +132,7 @@ Electronic and embedded lover since childhood.*
 - web: www.github.com/tBlabs
 - embedded: www.projekty.specteam.pl/tBlabs (temporarily disabled)
 
-## Education
+# Education
 - 03.2004 - 09.2008 - **Polytechnic in Białystok**
 - 02.2017 - till now - participant in many workshops (also as a trainer)
 
@@ -145,7 +145,7 @@ Electronic and embedded lover since childhood.*
 
 Visual Studio [Code] (+Vim), Cursor, Resharper, Notepad++, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
-## About me
+# About me
 
 TDD & design patterns lover.   
 Participated in many programmers' meetings (WarsawJS, WG.NET, etc.). Speaker and workshop trainer.  
