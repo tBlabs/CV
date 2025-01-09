@@ -1,5 +1,5 @@
 # Tomasz Budrewicz
-**Full-stack & Embedded engineer** with 17 years of experience (over 14 years commercial)  
+**Full-stack & Embedded engineer** with 18 years of experience (over 16 years commercial)  
 
 *Specialized in web technologies, based on `.NET Core` and `Typescript`.  
 For private projects mainly using `Node` and `C`.  
@@ -56,6 +56,12 @@ Electronic and embedded lover since childhood.*
 - SASS, Bootstrap, Material-UI
 
 ## Work history
+
+- 06.2023 - till now - **specTeam** (Rental software)
+  *Node Fullstack Leader*
+
+  Projects:
+  - Website and subsystems maintenance (mainly Node.ts)
 
 - 01.2022 - 05.2023 - **Corvid** (Security software)  
   *.NET Fullstack Developer* (backend: 80%, frontend: 20%) 
@@ -137,7 +143,7 @@ Electronic and embedded lover since childhood.*
 
 ## Programs knowledge
 
-Visual Studio [Code] (+Vim), Resharper, Notepad++, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
+Visual Studio [Code] (+Vim), Cursor, Resharper, Notepad++, Jenkins, TeamCity, Octopus, SoapUI, Postman, Eclipse, GIT, SVN, FreeCAD, GIMP, Jira, Code Collaborator & A lot of embedded stuff.
 
 ## About me
 
